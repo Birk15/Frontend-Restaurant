@@ -1,9 +1,12 @@
-import React from 'react'
+import React from 'react';
+import '../css/components.css';
 
 const Gasthaus = () => {
   return (
-    <div>
-      <p>Gasthaus</p>
+    <div className='parent'>
+      <div className='gasthaus'>
+        <h1>Gasthaus</h1>
+      </div>
     </div>
   )
 }

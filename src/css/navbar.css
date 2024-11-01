@@ -19,12 +19,12 @@
 .navbar-items {
     display: flex;
     justify-content: space-between;
+    align-items: center;
     position: relative;
     width: 80%;
 }
 .links {
     display: flex;
-    height: 400px;
     gap: 30px;
 }
 
